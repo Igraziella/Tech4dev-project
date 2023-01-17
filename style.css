@@ -1,12 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap');
 
-/* 
-::before,
-::after {
-    box-sizing: border-box;
-} */
-
-
 *, html {
     box-sizing: border-box;
 }
@@ -45,7 +38,8 @@ body {
     padding: 0 10px 0 10px;
 }
 
-.message h5 {
+.message h5
+ {
     text-align: center;
     font-weight: bold;
     font-size: 15px;
@@ -53,5 +47,5 @@ body {
 
 .message p {
     text-align: center;
-    font-size: 12px;;
+    font-size: 12px;
 }
