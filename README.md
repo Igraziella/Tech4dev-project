@@ -1,6 +1,6 @@
 About
 
-This is a mini project for the Women Techster 2.4 B00tcamp by Tech4dev.
+This is a mini project for the Women Techster 2.4 Bootcamp by Tech4dev.
 
 For this project, we are expected to replicate a QR code card using html and css. Some specifications have been provided in the style guide folder.
 
